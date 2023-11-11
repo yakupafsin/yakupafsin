@@ -1,64 +1,39 @@
-<h1 align="center">Hi there! 👋 I'm Yakup Afsin</h1>
+# 👋 Ahoy, Fellow Code Voyager! 🚀
 
-<p align="center">
-  <a href="https://twitter.com/ykpafsn" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ykpafsn?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
-  </a>
-</p>
+Hello there! I'm Yakup, a software sorcerer based in the enchanting lands of Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, originally from the magical realm of Turkey 🇹🇷. I specialize in the arcane arts of JavaScript, React Native, Expo, React, TypeScript, and various other spells from the mystical land of frameworks.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yakupafsin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 🧙‍♂️ Wizardry at Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakupafsin&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+- 🚀 I'm on a quest to create pixel-perfect spells with React and React Native.
+- 📱 Crafting magical mobile experiences with Expo and React Native.
+- 💻 Turning TypeScript into my trusty spellbook for type-safe sorcery.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakupafsin&" alt="GitHub Streak" />
-</p>
+## Chronicles of Code
 
-<h3 align="center">Let's Connect!</h3>
-<p align="center">
-  <a href="https://twitter.com/ykpafsn" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/ykpafsn" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ykpafsn" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@yakupafsin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/https://youtube.com/c/amaddhst" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-</p>
+```typescript
+const me = {
+  name: 'Your Name',
+  location: 'Scotland',
+  origin: 'Turkey',
+  passions: ['JavaScript', 'React', 'TypeScript', 'Magic of UI/UX'],
+  motto: 'Console.log("Expecto Patronum!");',
+  currentlyExploring: 'The Quantum Realm of State Management',
+};
 
----
+console.log(`Greetings, I am ${me.name}! 🧙‍♂️`);
+```
 
-### 👨‍💻 About Me
+## 🎉 Join the Adventure!
 
-Hey there! I'm Yakup Afsin, a passionate developer with expertise in React Native, React, JavaScript, and TypeScript. I enjoy turning ideas into functional and visually appealing applications.
+Feel free to embark on this magical journey with me. Your collaboration and insights are more valuable than a dragon's hoard!
 
-### 🚀 What I'm Up To
+🚀 **[Explore Repositories](https://github.com/yakupafsin)**
 
-- Currently working on exciting React Native projects.
-- Exploring new technologies and frameworks.
-- Sharing my knowledge through articles on [Medium](https://medium.com/@yakupafsin).
+## 📬 Contact the Sorcerer
 
-### 🌟 Fun Facts
+Have a question or just want to chat about the latest potion recipes? Send an owl my way:
 
-- I speak fluent JavaScript and TypeScript.
-- My code is powered by coffee ☕️.
-- I believe in the magic of open source collaboration.
+📧 [Email Me](mailto:info@yakupafsin.com)
+🐦 [Twitter](https://twitter.com/ykpafsn)
 
-### 📬 Let's Collaborate
-
-Have an interesting project or just want to chat about tech? Feel free to reach out! Let's create something amazing together.
-
----
-
-Thanks for stopping by! 😄✨
+## 🌟 May Your Code Be Ever Glorious! 
